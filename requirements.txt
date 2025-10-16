@@ -1,6 +1,6 @@
 jinja2
 netaddr
 pyYAML
-pyaoscx == 1.0.0
+pyaoscx
 requests
 urllib3
